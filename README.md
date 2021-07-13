@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-<!--
-**dafa168/dafa168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm frans, A Web development engineer, I use PHP/Golang/rust/nodejs.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Shenzhen
+📫 How to reach me: dafa1680@gmail.com
+⚡ Fun fact: I love use laravel/Goframe Framework
+🏠 Blog:  https://www.jianshu.com/u/f0f49b3130cc
 
-- 🔭 I’m currently working on 深圳
-- 🌱 I’m currently learning 深圳
-- 👯 I’m looking to collaborate on 深圳
-- 🤔 I’m looking for help with 深圳
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
